@@ -125,18 +125,6 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Issues
-
-If anyone is looking to make some contribution, the following are issues that you can solve:
-
-- [ ] UI improvements
-- [ ] Code optimization
-- [x] Routing
-- [ ] SEO
 
 
 
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
