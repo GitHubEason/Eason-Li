@@ -46,7 +46,7 @@ const about = {
   imageSize: 375,
   message:
     "Master of Computer Science graduate, eager to develop further professional skills and to contribute to team success with diligence in humility with team working attitude. Thorough comprehension of complex C++, R, HTML, CSS and JavaScript programming languages. Confidence to work in a new and challenging environment.",
-  resume: "https://drive.google.com/file/d/1SUFPt8uZUOnAclmf5t2tvwK_OcW1vin7/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1HOwuhcbdu65XEsJUOI0nCiPPRkWNCUyO/view?usp=sharing",
 };
 
 // PROJECTS SECTION
